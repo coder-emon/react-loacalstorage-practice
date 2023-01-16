@@ -1,0 +1,10 @@
+.shoes{
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    gap:2rem;
+    margin: 10px auto;
+    justify-content: center;
+    /* justify-items: center; */
+    /* align-items: center; */
+    /* align-content: center; */
+}

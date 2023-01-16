@@ -1,0 +1,9 @@
+.cosmetic{
+    width: 300px;
+    background-color: rgb(24, 70, 70);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    color: white;
+
+}
